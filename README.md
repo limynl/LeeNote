@@ -1,0 +1,2 @@
+# LeeNote
+Where dreams bloom.
