@@ -1,0 +1,75 @@
+{
+    "author": "Limynl",
+    "description": "http://limynl.site/",
+    "gitbook": "3.2.3",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {}
+    },
+    "plugins": [
+        "github",
+        "splitter",
+        "anchor-navigation-ex",
+        "-sharing",
+        "sharing-plus",
+        "-highlight",
+        "prism"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "associatedWithSummary": false,
+            "mode": "float",
+            "multipleH1": true,
+            "pageTop": {
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right",
+                "showLevelIcon": false
+            },
+            "showLevel": true
+        },
+        "fontsettings": {
+            "family": "serif",
+            "size": 2,
+            "theme": "white"
+        },
+        "github": {
+            "url": "https://github.com/limynl"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        },
+        "sharing": {
+            "all": [
+                "weibo",
+                "qq",
+                "qzone",
+                "google",
+                "douban"
+            ],
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "title": "Limynl"
+}
